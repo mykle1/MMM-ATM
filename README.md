@@ -24,10 +24,10 @@ There are many categories. See Category List below.
         module: 'MMM-ATM',
         position: 'top_left',              // Works well anywhere
         config: {
-			multipleChoice: "Yes",        // No = just the ? then the answer
-		    useHeader: true,              // true if you want a header
-            header: "Not another trivia module!",   // Any text you want
-		    maxWidth: "250px",             // Stretch or constrain according to region
+		multipleChoice: "Yes",        // No = just the ? then the answer
+		useHeader: true,              // true if you want a header
+		header: "Not another trivia module!",   // Any text you want
+		maxWidth: "250px",             // Stretch or constrain according to region
         }
     },
 	
