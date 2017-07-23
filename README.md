@@ -60,4 +60,4 @@ There are many categories. See Category List below.
 * Anime
 * Manga
 * Cartoons
-* Aimation
+* Animation
